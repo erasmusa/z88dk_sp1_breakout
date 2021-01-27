@@ -13,7 +13,7 @@ Just run make.bat and the result should be in the build directory.
 1. First of all you must have GNU make installed. 
 2. Secondly you must have docker and docker-compose installed.
 
-Simply run `make` or `make z88dk-breakout` to build the game. The resulting `.tap` file will be in the `build` directory and a .map in the `maps` directory. This build uses the SDCC compiler as opposed to the SCCZ80.
+Simply run `make` or `make z88dk-breakout` to build the game. The resulting `.tap` file will be in the `build` directory and a `.map` in the `maps` directory. This build uses the SDCC compiler as opposed to the SCCZ80.
 
 [Z88DK Docker Usage Reference Material](https://github.com/z88dk/z88dk/wiki/Docker-Usage)
 
